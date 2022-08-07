@@ -1,0 +1,20 @@
+.active-link {
+    background-color: red;
+}
+
+.guest {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    background-color: green;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+}

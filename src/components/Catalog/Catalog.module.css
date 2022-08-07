@@ -1,0 +1,44 @@
+.players{
+    background-color: red;
+    display: flex ;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.info-for-player{
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: block;
+}
+
+.img{
+    display: block;
+    position: relative;
+    float: left;
+    margin-left: 15px;
+    margin-right: 22px;
+    height: 100px;
+    border-radius: 0%;
+    box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.5);
+    align-items: center;
+}
+
+.details-button{
+    display: inline;
+    margin: 0 auto;
+    padding: 12px 0px;
+    width: 25px;
+    font-style: italic;
+    font-size: 20px;
+    border-radius: 0px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+

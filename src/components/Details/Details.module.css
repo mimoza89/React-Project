@@ -1,0 +1,56 @@
+.player{
+    background-color: red;
+    display: flex ;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.info-for-player {
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 593px;
+    height: 480px;
+    margin-bottom: 0px;
+}
+
+.img {
+    display: block;
+    position: relative;
+    float: left;
+    margin-left: 15px;
+    margin-right: 22px;
+    height: 100px;
+    border-radius: 0%;
+    box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.5);
+    align-items: center;
+}
+
+.comments-form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: blue;
+    text-align: center;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.comments-form > textarea {
+    height: 100px;
+}
+
+.comments-form > button {
+    margin-top: 10px;
+    height: 30px;
+}
+
+.comments{
+    margin-left: 600px;
+    margin-right: 593px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,9 @@
+.home-page {
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.home-page > h2{
+    background-color: blueviolet;
+    margin-left: 10px;
+}
