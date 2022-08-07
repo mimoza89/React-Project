@@ -1,5 +1,7 @@
 # React-Project
 
+This is application for tennis player where logged in user can edit, delete and create records. And guest can only see details and records.
+
 Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
